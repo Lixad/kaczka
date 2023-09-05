@@ -31,8 +31,8 @@ const count = ref(0)
   <p class="read-the-docs">Click on the Vite and Vue logos to learn more</p>
   <iframe
     src="https://player.twitch.tv/?channel=rozowakaczuszka&parent=lixad.github.io"
-    height="<height>"
-    width="<width>"
+    height="700"
+    width="1000"
     allowfullscreen>
   </iframe>
   <iframe id="twitch-chat-embed"

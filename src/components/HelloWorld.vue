@@ -29,6 +29,12 @@ const count = ref(0)
     in your IDE for a better DX
   </p>
   <p class="read-the-docs">Click on the Vite and Vue logos to learn more</p>
+  <iframe
+    src="https://player.twitch.tv/?channel=rozowakaczuszka&parent=lixad.github.io"
+    height="<height>"
+    width="<width>"
+    allowfullscreen>
+  </iframe>
   <iframe id="twitch-chat-embed"
     src="https://www.twitch.tv/embed/rozowakaczuszka/chat?parent=lixad.github.io"
     height="500"

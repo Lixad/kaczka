@@ -30,7 +30,7 @@ const count = ref(0)
   </p>
   <p class="read-the-docs">Click on the Vite and Vue logos to learn more</p>
   <iframe id="twitch-chat-embed"
-    src="https://www.twitch.tv/embed/rozowakaczuszka/chat?parent=https://lixad.github.io/"
+    src="https://www.twitch.tv/embed/rozowakaczuszka/chat?parent=lixad.github.io/"
     height="500"
     width="350">
   </iframe>
